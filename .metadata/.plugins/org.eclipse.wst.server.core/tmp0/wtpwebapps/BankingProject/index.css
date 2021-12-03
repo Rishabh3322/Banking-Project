@@ -1,0 +1,5 @@
+@CHARSET "ISO-8859-1";
+a:LINK {color: purple;}
+a:VISITED {color: green;}
+a:HOVER {color: red;}
+a:ACTIVE {color: pink;}

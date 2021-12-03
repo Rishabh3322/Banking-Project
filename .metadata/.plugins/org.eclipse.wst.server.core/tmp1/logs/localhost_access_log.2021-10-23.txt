@@ -1,0 +1,4 @@
+127.0.0.1 - - [23/Oct/2021:14:36:55 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [23/Oct/2021:14:36:55 +0530] "GET /OnlineBanking/LoginValidation HTTP/1.1" 405 751
+0:0:0:0:0:0:0:1 - - [23/Oct/2021:14:37:14 +0530] "GET /OnlineBanking/index.jsp HTTP/1.1" 200 583
+0:0:0:0:0:0:0:1 - - [23/Oct/2021:14:37:16 +0530] "GET /OnlineBanking/LoginValidation?acc=&pass= HTTP/1.1" 405 751

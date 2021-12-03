@@ -1,0 +1,9 @@
+127.0.0.1 - - [16/Nov/2021:17:26:22 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [16/Nov/2021:17:26:24 +0530] "GET /BankingProject/ HTTP/1.1" 200 871
+0:0:0:0:0:0:0:1 - - [16/Nov/2021:17:28:03 +0530] "GET /BankingProject/register.jsp HTTP/1.1" 200 992
+0:0:0:0:0:0:0:1 - - [16/Nov/2021:17:28:19 +0530] "GET /BankingProject/LoginValidation?accno=kod06&pass=ri06 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Nov/2021:17:28:19 +0530] "GET /BankingProject/loginsuccess.jsp HTTP/1.1" 200 733
+0:0:0:0:0:0:0:1 - - [16/Nov/2021:17:28:33 +0530] "GET /BankingProject/Balance HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [16/Nov/2021:17:28:33 +0530] "GET /BankingProject/balancesuccess.jsp HTTP/1.1" 200 342
+0:0:0:0:0:0:0:1 - - [16/Nov/2021:17:28:36 +0530] "GET /BankingProject/loginsuccess.jsp HTTP/1.1" 200 733
+0:0:0:0:0:0:0:1 - - [16/Nov/2021:17:28:43 +0530] "GET /BankingProject/transfer.jsp HTTP/1.1" 200 548

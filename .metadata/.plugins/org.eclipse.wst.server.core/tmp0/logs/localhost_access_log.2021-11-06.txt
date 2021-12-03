@@ -1,0 +1,13 @@
+127.0.0.1 - - [06/Nov/2021:23:15:03 +0530] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:15:04 +0530] "GET /BankingProject/ HTTP/1.1" 200 643
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:15:18 +0530] "GET /BankingProject/LoginValidation?accno=kod06&pass=ri06 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:15:19 +0530] "GET /BankingProject/loginsuccess.jsp HTTP/1.1" 200 631
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:15:25 +0530] "GET /BankingProject/changepassword.jsp HTTP/1.1" 200 649
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:15:40 +0530] "GET /BankingProject/ChangePwdValidation?opwd=&npwd=&cnpwd= HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:15:40 +0530] "GET /BankingProject/errorchangepwd.jsp HTTP/1.1" 200 701
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:15:55 +0530] "GET /BankingProject/ChangePwdValidation?opwd=ri06&npwd=ris06&cnpwd=ri06 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:15:55 +0530] "GET /BankingProject/errorinpwd.jsp HTTP/1.1" 200 750
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:16:46 +0530] "GET /BankingProject/ChangePwdValidation?opwd=ri06&npwd=ris06&cnpwd=ris06 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:16:46 +0530] "GET /BankingProject/Changepwdsuccess.jsp HTTP/1.1" 404 748
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:16:59 +0530] "GET /BankingProject/ChangePwdValidation?opwd=ri06&npwd=ris06&cnpwd=ris06 HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [06/Nov/2021:23:16:59 +0530] "GET /BankingProject/Changepwdfail.jsp HTTP/1.1" 404 745
